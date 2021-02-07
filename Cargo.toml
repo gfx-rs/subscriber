@@ -4,8 +4,8 @@ version = "0.1.0"
 authors = ["wgpu developers"]
 edition = "2018"
 description = "WebGPU tracing subscribers"
-homepage = "https://github.com/gfx-rs/wgpu"
-repository = "https://github.com/gfx-rs/wgpu"
+homepage = "https://github.com/gfx-rs/subscriber"
+repository = "https://github.com/gfx-rs/subscriber"
 keywords = ["graphics"]
 license = "MPL-2.0"
 
